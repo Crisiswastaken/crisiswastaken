@@ -107,7 +107,7 @@ Demo-ready frontend for a decentralized AI healthcare platform.
 
 ## Let's Connect
 
-- 🌐 Portfolio: [vinceds.tech](https://vinceds.tech)
+- 🌐 Portfolio: [vinceds.tech](https://vincedev-flame.vercel.app/)
 - 💼 LinkedIn: [Vince Dsouza](https://linkedin.com/in/vince-d-souza-2982ab2a7)
 - 📧 Email: vinceshine54321@gmail.com
 
