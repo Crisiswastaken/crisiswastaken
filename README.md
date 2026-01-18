@@ -88,13 +88,13 @@ Demo-ready frontend for a decentralized AI healthcare platform.
 
 ## Work Experience
 
-### Frontend-Focused Full Stack Developer @ Cocomply (2025 - Present)
+### Frontend-Focused Full Stack Developer @ Cocomply (Aug 2025 - Present)
 - Building and scaling production-grade frontend systems with focus on UI quality and performance
 - Owning complex frontend features while collaborating with backend and product teams
 - Contributing across the stack including API integration and system-level decisions
 - Tech: Next.js, TypeScript, Tailwind CSS, Python, Django, PostgreSQL, Docker, AWS
 
-### Product Engineer @ thirdStartup (2025 - Present)
+### Product Engineer @ thirdStartup (Jan 2025 - July 2025)
 - Owning end-to-end product development for client solutions
 - Translating client ideas into fully shipped, production-ready products
 - Designing system architecture, building frontend and backend features
