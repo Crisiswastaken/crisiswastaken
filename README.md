@@ -1,15 +1,8 @@
-```
-██╗   ██╗██╗███╗   ██╗ ██████╗███████╗                                            ╭───────────────┬──────────────╮         
-██║   ██║██║████╗  ██║██╔════╝██╔════╝                                            │ Profile views │ 80085        │
-██║   ██║██║██╔██╗ ██║██║     █████╗                                              ╰───────────────┴──────────────╯
-╚██╗ ██╔╝██║██║╚██╗██║██║     ██╔══╝                                              (Source: I made it up)
- ╚████╔╝ ██║██║ ╚████║╚██████╗███████╗
-  ╚═══╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
-```
 
-# Vince D’souza
-Frontend Focussed Full Stack Engineer 
-
+# Vince D’souza                                                                   ┌──────────────────────────┐  
+Frontend Focussed Full Stack Engineer                                             │ Profile views │ 80085    │
+                                                                                  └──────────────────────────┘
+                                                                                  
 ## what i do
 * design develop and ship
 * turn messy ideas messier ideas, ocassionaly into good ones too
