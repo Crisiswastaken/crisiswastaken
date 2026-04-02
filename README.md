@@ -40,5 +40,5 @@ email → [vinceshine54321@gmail.com](mailto:vinceshine54321@gmail.com)
 
 
 ```
-p.s. the above text was just random bs over gpt slop. Thanks for reading and text me <3 
+p.s. the above text was just random bs over gpt slop. Thanks for reading <3
 ```
