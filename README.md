@@ -22,7 +22,7 @@ Software Engineer / Product Engineer
 * user experience is negotiable, design is not - design is love, design is life
 
 ## currently
-* frontend-focused full stack @ cocomply
+* Software Engineer @ cocomply
 * previously product engineer @ thirdstartup
 * working on a prod systems that will prolly remain in my private repos
 
