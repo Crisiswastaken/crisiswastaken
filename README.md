@@ -8,8 +8,8 @@
 ```
 
 # Vince D’souza
-Frontend Focussed Full Stack Engineer 
-                                                                                  
+Software Engineer / Product Engineer
+
 ## what i do
 * design develop and ship
 * turn messy ideas messier ideas, ocassionaly into good ones too
