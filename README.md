@@ -7,23 +7,20 @@
   ╚═══╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
 ```
 
-<p align="right">
-  <code>Profile views: 54321</code>
-</p>
 
 # Vince D'Souza
 Software Engineer / Product Engineer
 
 ## what i do
 * design, develop, and ship
-* turn messy ideas into messier ideas — occasionally a good one slips through
+* turn messy ideas into messier ideas, occasionally a good one slips through
 * delay shipping a feature because of OCD and perfectionism
 * test in prod, end users are my QA
 
 ## how i work
 * speed > perfection (lie btw)
 * design and engineering go hand in hand (on a good day)
-* user experience is negotiable, design is not — design is love, design is life
+* user experience is (non) negotiable, design is (not). design is love, design is life
 
 ## currently
 * Software Engineer @ CoComply
